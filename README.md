@@ -2,6 +2,10 @@
 A simple Q-learning implementation in OpenAI Gym's "Taxi-v3" environment.
 
 ## What is  OpenAI Gym's "Taxi-v3" environment
+
+![p](https://www.gymlibrary.dev/_images/taxi.gif)
+
+
 The "Taxi-v3" environment simulates a simple grid world in which an autonomous taxi operates.
 
 Here are the key characteristics and components of the "Taxi-v3" environment:
@@ -25,6 +29,9 @@ Here are the key characteristics and components of the "Taxi-v3" environment:
 
 4) **Objective**
     * The objective of the taxi is to pick up passengers and drop them off at their requested destinations while navigating the grid world.
+
+
+[Complete Details](https://www.gymlibrary.dev/environments/toy_text/taxi/)
 
 
 ## How to solve this problem using Q-learning
