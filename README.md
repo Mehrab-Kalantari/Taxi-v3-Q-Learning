@@ -1,5 +1,5 @@
 # Taxi-v3 Q-Learning
-A simple Q-learning implementation in OpenAI Gym's "Taxi-v3" environment.
+A simple Q-learning implementation in OpenAI Gym's Taxi-v3 environment.
 
 ## What is  OpenAI Gym's "Taxi-v3" environment
 
